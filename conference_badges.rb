@@ -25,4 +25,3 @@ def printer(prints)
   assign_rooms(speakers).each do |prints|
     return prints
   end
-
